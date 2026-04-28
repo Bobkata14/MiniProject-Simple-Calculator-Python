@@ -1,0 +1,81 @@
+Numbers and Casting in Python
+🟢 Task 1 – Number Type Recognition
+
+👉 What is the type of these numbers?
+
+x = 10
+y = 5.5
+z = 2j
+
+Write:
+
+x = ?
+y = ?
+z =?
+🟢 Task 2 – Checking with type()
+
+👉 Create the same variables and use:
+
+print (type (x))
+🟡 Task 3 – Casting to float
+
+You have:
+
+x = 5
+
+👉 convert it to float
+
+Expected:
+
+5.0
+🟡 Task 4 – Casting to int
+
+You have:
+
+y = 7.9
+
+👉 convert it to int
+
+Expected:
+
+7
+🟡 Task 5 – Casting to string
+
+You have:
+
+number = 100
+
+👉 convert it to string and print it
+
+🔴 Task 6 – Mixed numbers
+
+What will output:
+
+x = 5
+y = 2.5
+
+print (x + y)
+
+👉 result?
+👉 type?
+
+🔴 Task 7 – Fix the error
+age = "20"
+new_age = age + 5
+print (new_age)
+
+👉 fix it
+
+🔴 Task 8 – A little logic
+
+Create:
+
+a = 10
+b = 3
+
+Print:
+
+Addition: 13
+Subtraction: 7
+Multiplication: 30
+Division: 3.333...

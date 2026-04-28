@@ -1,0 +1,27 @@
+MINI PROJECT: Simple Calculator
+
+Make a program that has:
+
+num1 = 15
+num2 = 5
+
+and prints:
+
+--- Calculator ---
+
+Addition: 20
+Subtraction: 10
+Multiplication: 75
+Division: 3.0
+🧠 Requirements:
+
+✔️ use variables
+✔️ use arithmetic operators
+✔️ use f-string
+✔️ make it beautiful
+
+🔥 BONUS:
+
+Add:
+
+power = num1 ** num2
